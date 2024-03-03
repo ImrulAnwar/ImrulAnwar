@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Imrul Anwar</h1>
 <h3 align="center">Native Android & Fullstack Developer</h3>
 <p>
-I'm an <strong>Aspiring Software Engineer</strong> with a solid grasp of <strong>Software Architecture</strong> and key practices like <strong>Unit Testing</strong>, <strong>Integration Testing</strong>, and <strong>End-to-End Testing</strong>. I adhere to <strong>SOLID Principles</strong> and have experience with <strong>CI/CD Pipelines</strong> and <strong>Agile Methodologies</strong> like <strong>Scrum</strong>. Additionally, I'm proficient in <strong>Git</strong>, <strong>Docker</strong>, and <strong>Cloud Platforms</strong> like <strong>AWS</strong> and <strong>Azure</strong>. I'm eager to learn and grow within the dynamic field of <strong>Software Engineering</strong>.
+I'm an <strong>Aspiring Software Engineer</strong> with a solid grasp of <strong>Software Architecture</strong> and key practices like <strong>Unit Testing</strong>, <strong>Integration Testing</strong>, and <strong>End-to-End Testing</strong>. I adhere to <strong>SOLID Principles</strong> and have experience with <strong>CI/CD Pipelines</strong> and <strong>Agile Methodologies</strong> like <strong>Scrum</strong>. Additionally, I'm proficient in <strong>Git</strong>, <strong>Docker</strong>, and <strong>Cloud Platforms</strong> like <strong>AWS</strong> and <strong>Azure. </strong>
 </p>
 
 <h3 align="left">Socials</h3>
