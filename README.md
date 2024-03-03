@@ -14,7 +14,6 @@ I'm an <strong>Aspiring Software Engineer</strong> with a solid grasp of <strong
 
 <h3 align="left">Tools For Web:</h3>
 <div style="display: flex; justify-content: space-between; width: 400px;">
-
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40">
