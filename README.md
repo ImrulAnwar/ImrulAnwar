@@ -15,11 +15,14 @@ I'm an <strong>Aspiring Software Engineer</strong> with a solid grasp of <strong
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<div style="display: flex; justify-content: center;">
-    <div style="flex: 1; margin-right: 10px;">
-        <img style="height: 200px; width: auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=imrulanwar&show_icons=true&locale=en&layout=compact" alt="imrulanwar" />
-    </div>
-    <div style="flex: 1; margin-left: 10px;">
-        <img style="height: 200px; width: auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=imrulanwar&" alt="imrulanwar" />
-    </div>
-</div>
+<table>
+    <tr>
+        <td style="padding-right: 10px;">
+            <img style="height: 200px; width: auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=imrulanwar&show_icons=true&locale=en&layout=compact" alt="imrulanwar" />
+        </td>
+        <td style="padding-left: 10px;">
+            <img style="height: 200px; width: auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=imrulanwar&" alt="imrulanwar" />
+        </td>
+    </tr>
+</table>
+
