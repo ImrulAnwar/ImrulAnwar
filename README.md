@@ -11,11 +11,6 @@ I'm an <strong>Aspiring Software Engineer</strong> with a solid grasp of <strong
 
 </p>
 
-<div style="margin-top: 20px; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imrulanwar&show_icons=true&locale=en&layout=compact" alt="imrulanwar" width="auto" height="150" style="margin-right: 20px;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=imrulanwar&" alt="imrulanwar" width="auto" height="150" style="margin-left: 20px;" />
-</div>
-
 
 
 
