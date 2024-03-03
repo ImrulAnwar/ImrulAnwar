@@ -17,14 +17,15 @@ I'm an <strong>Aspiring Software Engineer</strong> with a solid grasp of <strong
 
 <table style="border-collapse: collapse;">
     <tr>
-        <td style="padding-right: 10px; border: none;">
-            <img style="height: 200px; width: auto; border: none;" src="https://github-readme-stats.vercel.app/api/top-langs?username=imrulanwar&show_icons=true&locale=en&layout=compact" alt="imrulanwar" />
+        <td style="padding-right: 10px; border: none; outline: none;">
+            <img style="height: 200px; width: auto; border: none; outline: none;" src="https://github-readme-stats.vercel.app/api/top-langs?username=imrulanwar&show_icons=true&locale=en&layout=compact" alt="imrulanwar" />
         </td>
-        <td style="padding-left: 10px; border: none;">
-            <img style="height: 200px; width: auto; border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=imrulanwar&" alt="imrulanwar" />
+        <td style="padding-left: 10px; border: none; outline: none;">
+            <img style="height: 200px; width: auto; border: none; outline: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=imrulanwar&" alt="imrulanwar" />
         </td>
     </tr>
 </table>
+
 
 
 
