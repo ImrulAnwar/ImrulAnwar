@@ -1,6 +1,8 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=imrulanwar&show_icons=true&locale=en&layout=compact" alt="imrulanwar" width="auto" height="150" align="left" />
-
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imrulanwar&show_icons=true&locale=en&layout=compact" alt="imrulanwar" width="auto" height="150" align="left" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=imrulanwar&" alt="imrulanwar" width="auto" height="150" align="right" />
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Imrul Anwar</h1>
 <h3 align="center">Native Android & Fullstack Developer</h3>
