@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Imrul Anwar</h1>
 <h3 align="center">Native Android & Fullstack Developer</h3>
-
+<p>
+I'm an <strong>aspiring software engineer</strong> with a solid grasp of <strong>SOFTWARE ARCHITECTURE</strong> and key practices like <strong>UNIT TESTING</strong>, <strong>INTEGRATION TESTING</strong>, and <strong>END-TO-END TESTING</strong>. I adhere to <strong>SOLID PRINCIPLES</strong> and have experience with <strong>CI/CD PIPELINES</strong> and <strong>AGILE METHODOLOGIES</strong> like <strong>SCRUM</strong>. Additionally, I'm proficient in <strong>GIT</strong>, <strong>DOCKER</strong>, and <strong>CLOUD PLATFORMS</strong> like <strong>AWS</strong> and <strong>AZURE</strong>. I'm eager to learn and grow within the dynamic field of <strong>SOFTWARE ENGINEERING</strong>.
+</p>
 <h3 align="left">Socials</h3>
 <p align="left">
 <a href="https://linkedin.com/in/imrul-anwar-3aa233218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imrul-anwar-3aa233218" height="30" width="40" /></a>
