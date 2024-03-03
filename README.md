@@ -1,3 +1,7 @@
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=imrulanwar&show_icons=true&locale=en&layout=compact" alt="imrulanwar" width="auto" height="150" align="left" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imrulanwar&" alt="imrulanwar" width="auto" height="150" align="right" />
+
 <h1 align="center">Hi 👋, I'm Imrul Anwar</h1>
 <h3 align="center">Native Android & Fullstack Developer</h3>
 <p>
@@ -6,11 +10,6 @@ I'm an <strong>Aspiring Software Engineer</strong> with a solid grasp of <strong
 <p align="center">
 <a href="https://linkedin.com/in/imrul-anwar-3aa233218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imrul-anwar-3aa233218" height="30" width="40" /></a>
 </p>
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=imrulanwar&show_icons=true&locale=en&layout=compact" alt="imrulanwar" width="auto" height="150" align="left" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imrulanwar&" alt="imrulanwar" width="auto" height="150" align="right" />
 
 
 
