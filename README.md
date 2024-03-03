@@ -17,8 +17,6 @@ I'm an <strong>Aspiring Software Engineer</strong> with a solid grasp of <strong
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imrulanwar&show_icons=true&locale=en&layout=compact" alt="imrulanwar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imrulanwar&" alt="imrulanwar" /></p>
-
 <div style="display: flex; justify-content: center;">
     <div style="flex: 1; margin-right: 10px;">
         <img style="height: 200px; width: auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=imrulanwar&show_icons=true&locale=en&layout=compact" alt="imrulanwar" />
@@ -27,4 +25,6 @@ I'm an <strong>Aspiring Software Engineer</strong> with a solid grasp of <strong
         <img style="height: 200px; width: auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=imrulanwar&" alt="imrulanwar" />
     </div>
 </div>
+
+
 
