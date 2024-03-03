@@ -30,16 +30,10 @@ I'm an <strong>Aspiring Software Engineer</strong> with a solid grasp of <strong
     }
 </style>
 
-<table>
-    <tr>
-        <td style="padding-right: 10px;">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imrulanwar&show_icons=true&locale=en&layout=compact" alt="imrulanwar" />
-        </td>
-        <td style="padding-left: 10px;">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=imrulanwar&" alt="imrulanwar" />
-        </td>
-    </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=imrulanwar&show_icons=true&locale=en&layout=compact" alt="imrulanwar" width="400" align="left" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imrulanwar&" alt="imrulanwar" width="400" align="right" />
+
 
 
 
