@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I Am IMRUL ANWAR</h1>
+<h1 align="center">Hi👋, I Am IMRUL</h1>
 <p>
 I'm an <strong>aspiring Software Engineer</strong> with a solid grasp of <strong>Software Architecture</strong> (Layered) and Key Approaches like <strong>TDD </strong>(Test Driven Development) <strong>Unit Test</strong>, <strong>Integration Test</strong> and <strong>End-to-End Test</strong>. I adhere to <strong>SOLID Principles</strong> and have experience with <strong>CI/CD Pipelines</strong> and <strong>Agile methodologies</strong> like <strong>Scrum</strong>.
 </p>
