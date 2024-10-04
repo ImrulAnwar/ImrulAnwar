@@ -1,51 +1,51 @@
 <h1 align="center"><strong>Android Developer </strong></h1>
 <p>
-<strong>Aspiring Software Engineer</strong> with a solid grasp of <strong>Software Architecture</strong> (Layered) and key Approaches like <strong>TDD </strong>(Test Driven Development) & Dependency Injection. I adhere to <strong>SOLID</strong> Principles and have experience with <strong>CI/CD</strong> Pipelines and <strong>Agile Methodologies</strong> like <strong>Scrum</strong>. My core skills are focused on Native Android Development. Check out my application on      
+<strong>Aspiring Software Engineer</strong> with a solid grasp of <strong>Software Architecture</strong> (Layered) and key Approaches like <strong>TDD </strong>(Test Driven Development) & Dependency Injection. I adhere to <strong>SOLID</strong> Principles and have experience with <strong>CI/CD</strong> Pipelines and <strong>Agile Methodologies</strong> like <strong>Scrum</strong>. My core skills are focused on Native Android Development. Check out my application on Playstore.     
   <a href="YOUR_PLAYSTORE_LINK" target="_blank">
-    Playstore.
-        <img src="playstore-icon.png" alt="Play Store Icon" style="width: 20px; height: 20px; vertical-align: middle; margin-left: 5px;">
+        <img src="https://github.com/user-attachments/assets/798f1a1d-266a-4446-8e9f-c9259c55038f" 
+          alt="Play Store Icon" style="width: 20px; height: 20px; vertical-align: middle; margin-left: 5px;">
     </a>
 </p>
 <h2>Techstack I use</h2>
     <ul class="tech-stack">
         <li class="tech-item">
-            <img src= "https://github.com/user-attachments/assets/ff8b2673-a8c4-4006-a7e7-85ed1444468a" alt="Kotlin Icon" 
-              style="width: 24px; height: 24px; vertical-align: middle; margin-right: 5px;">
+            <img src= "https://github.com/user-attachments/assets/8f9e8e55-1592-43a3-a178-cb804af35430" alt="Kotlin Icon" 
+              style="height: 24px; vertical-align: middle; margin-right: 5px;">
           Kotlin
         </li>
         <li class="tech-item">
             <img src= "https://github.com/user-attachments/assets/ff8b2673-a8c4-4006-a7e7-85ed1444468a" alt="Jetpack Icon" 
-              style="width: 24px; height: 24px; vertical-align: middle; margin-right: 5px;">
+              style="height: 24px; vertical-align: middle; margin-right: 5px;">
           Jetpack Compose
         </li>
         <li class="tech-item">
-            <img src= "https://github.com/user-attachments/assets/ff8b2673-a8c4-4006-a7e7-85ed1444468a" alt="Room Icon" 
-              style="width: 24px; height: 24px; vertical-align: middle; margin-right: 5px;">
+            <img src= "https://github.com/user-attachments/assets/a0769241-087b-49af-964d-f3db1871515e" alt="Room Icon" 
+              style="height: 24px; vertical-align: middle; margin-right: 5px;">
           Room Persistance Library
         </li>
         <li class="tech-item">
-            <img src= "https://github.com/user-attachments/assets/ff8b2673-a8c4-4006-a7e7-85ed1444468a" alt="Firebase Icon" 
-              style="width: 24px; height: 24px; vertical-align: middle; margin-right: 5px;">
+            <img src= "https://github.com/user-attachments/assets/e39b01cc-17a3-411e-967b-b4fb5351ef43" alt="Firebase Icon" 
+              style="height: 24px; vertical-align: middle; margin-right: 5px;">
           Firebase Auth & Firestore
         </li>
         <li class="tech-item">
-            <img src= "https://github.com/user-attachments/assets/ff8b2673-a8c4-4006-a7e7-85ed1444468a" alt="Dagger Hilt Icon" 
-              style="width: 24px; height: 24px; vertical-align: middle; margin-right: 5px;">
+            <img src= "https://github.com/user-attachments/assets/387c6b12-6abb-43f4-9503-53e27a0b77f6" alt="Dagger Hilt Icon" 
+              style="height: 24px; vertical-align: middle; margin-right: 5px;">
            Dagger Hilt
         </li>
         <li class="tech-item">
-            <img src= "https://github.com/user-attachments/assets/ff8b2673-a8c4-4006-a7e7-85ed1444468a" alt="JUnit Icon" 
-              style="width: 24px; height: 24px; vertical-align: middle; margin-right: 5px;">
+            <img src= "https://github.com/user-attachments/assets/d4f1635d-166e-47d8-bd93-1a0ba474b331" alt="JUnit Icon" 
+              style="height: 24px; vertical-align: middle; margin-right: 5px;">
           JUnit & Truth
         </li>
     </ul>
   <h3>My Socials</h3>
   <ul class="tech-stack">
         <li class="tech-item">
-              <a href="https://linkedin.com/in/imrul-anwar-3aa233218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imrul-anwar-3aa233218" height="30" width="40" />LinkedIn</a>
-        </li>
-        <li class="tech-item">
-              <a href="https://linkedin.com/in/imrul-anwar-3aa233218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imrul-anwar-3aa233218" height="30" width="40" />GitHub</a> 
+              LinkedIn
+              <a href="https://linkedin.com/in/imrul-anwar-3aa233218" target="blank">
+                <img src= "https://github.com/user-attachments/assets/e7b76a8a-6ae0-4ba0-a358-8da6b810a565" alt="LinkedIn icon" 
+              style="height: 24px; vertical-align: middle; margin-left: 5px;"></a>
         </li>
     </ul>
 
