@@ -9,28 +9,34 @@
 <h2>Techstack I use</h2>
     <ul class="tech-stack">
         <li class="tech-item">
-            <img src="icon-kotlin.png" alt="Kotlin Icon">
-            Kotlin
+            <img src= "https://github.com/user-attachments/assets/ff8b2673-a8c4-4006-a7e7-85ed1444468a" alt="Kotlin Icon" 
+              style="width: 24px; height: 24px; vertical-align: middle; margin-right: 5px;">
+          Kotlin
         </li>
         <li class="tech-item">
-            <img src="icon-jetpack-compose.png" alt="Jetpack Compose Icon">
-            Jetpack Compose
+            <img src= "https://github.com/user-attachments/assets/ff8b2673-a8c4-4006-a7e7-85ed1444468a" alt="Jetpack Icon" 
+              style="width: 24px; height: 24px; vertical-align: middle; margin-right: 5px;">
+          Jetpack Compose
         </li>
         <li class="tech-item">
-            <img src="icon-room.png" alt="Room Persistence Library Icon">
-            Room Persistence Library
+            <img src= "https://github.com/user-attachments/assets/ff8b2673-a8c4-4006-a7e7-85ed1444468a" alt="Room Icon" 
+              style="width: 24px; height: 24px; vertical-align: middle; margin-right: 5px;">
+          Room Persistance Library
         </li>
         <li class="tech-item">
-            <img src="icon-firebase.png" alt="Firebase Icon">
-            Firebase Firestore & Auth
+            <img src= "https://github.com/user-attachments/assets/ff8b2673-a8c4-4006-a7e7-85ed1444468a" alt="Firebase Icon" 
+              style="width: 24px; height: 24px; vertical-align: middle; margin-right: 5px;">
+          Firebase Auth & Firestore
         </li>
         <li class="tech-item">
-            <img src="icon-dagger-hilt.png" alt="Dagger Hilt Icon">
-            Dagger Hilt
+            <img src= "https://github.com/user-attachments/assets/ff8b2673-a8c4-4006-a7e7-85ed1444468a" alt="Dagger Hilt Icon" 
+              style="width: 24px; height: 24px; vertical-align: middle; margin-right: 5px;">
+           Dagger Hilt
         </li>
         <li class="tech-item">
-            <img src="icon-junit.png" alt="JUnit Icon">
-            JUnit & Truth
+            <img src= "https://github.com/user-attachments/assets/ff8b2673-a8c4-4006-a7e7-85ed1444468a" alt="JUnit Icon" 
+              style="width: 24px; height: 24px; vertical-align: middle; margin-right: 5px;">
+          JUnit & Truth
         </li>
     </ul>
   <h3>My Socials</h3>
