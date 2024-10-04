@@ -1,6 +1,6 @@
 <h1 align="center"><strong>Android Developer </strong></h1>
 <p>
-<strong>Aspiring Software Engineer</strong> with a solid grasp of <strong>Software Architecture</strong> (Layered) and key Approaches like <strong>TDD </strong>(Test Driven Development) & Dependency Injection. I adhere to <strong>SOLID</strong> Principles and have experience with <strong>CI/CD</strong> Pipelines and <strong>Agile Methodologies</strong> like <strong>Scrum</strong>. My core skills are focused on Native Android Development. Check out my application on Playstore.     
+Aspiring <strong>Software Engineer</strong> with a solid grasp of <strong>Software Architecture</strong> (Layered) and key Approaches like <strong>TDD </strong>(Test Driven Development) & <strong>Dependency Injection.</strong> I adhere to <strong>SOLID</strong> Principles and have experience with <strong>CI/CD</strong> Pipelines and <strong>Agile Methodologies</strong> like <strong>Scrum</strong>. My core skills are focused on Native Android Development. Check out my application on Playstore.     
   <a href="YOUR_PLAYSTORE_LINK" target="_blank">
         <img src="https://github.com/user-attachments/assets/798f1a1d-266a-4446-8e9f-c9259c55038f" 
           alt="Play Store Icon" style="width: 20px; height: 20px; vertical-align: middle; margin-left: 5px;">
