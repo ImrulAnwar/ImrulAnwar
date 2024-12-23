@@ -1,11 +1,17 @@
 <h1 align="center"><strong>Android Developer </strong></h1>
 
 <p>
-Aspiring <strong>Software Engineer</strong> with a solid grasp of <strong>Software Architecture</strong> (Layered) and key Approaches like <strong>TDD </strong>(Test Driven Development) & <strong>Dependency Injection.</strong> I adhere to <strong>SOLID</strong> Principles and have experience with <strong>CI/CD</strong> Pipelines and <strong>Agile Methodologies</strong> like <strong>Scrum</strong>. My core skills are focused on Native Android Development. Check out my application on Amazon Appstore     
-  <a href="https://www.amazon.com/gp/product/B0DP3Y8KVW" target="_blank">
-        <img src="https://github.com/user-attachments/assets/43ac96c1-17fc-4be2-a9da-62e2c921772c" 
-          alt="Appstore Icon" style="width: 20px; height: 20px; vertical-align: middle; margin-left: 5px;">
+Aspiring <strong>Software Engineer</strong> with a solid grasp of <strong>Software Architecture</strong> (Layered) and key Approaches like <strong>TDD </strong>(Test Driven Development) & <strong>Dependency Injection.</strong> I adhere to <strong>SOLID</strong> Principles and have experience with <strong>CI/CD</strong> Pipelines and <strong>Agile Methodologies</strong> like <strong>Scrum</strong>. My core skills are focused on Native Android Development. Check out my application on following platforms:     
+    <p>
+    <a href="YOUR_PLAYSTORE_LINK">
+        <img src="https://github.com/user-attachments/assets/798f1a1d-266a-4446-8e9f-c9259c55038f" 
+          alt="Play Store Icon" style="width: 20px; height: 20px;">
     </a>
+    <a href="https://www.amazon.com/gp/product/B0DP3Y8KVW">
+        <img src="https://github.com/user-attachments/assets/43ac96c1-17fc-4be2-a9da-62e2c921772c" 
+          alt="Appstore Icon" style="width: 20px; height: 20px;">
+    </a>
+    <p>
 </p>
 <h2>Techstack I use</h2>
     <ul class="tech-stack">
