@@ -1,7 +1,7 @@
 <h1 align="center"><strong>Software Engineer</strong></h1>
 
 <p>
-Aspiring <strong>Software Engineer</strong> with a solid grasp of <strong>Software Architecture</strong> (Layered) and key Approaches like <strong>TDD </strong>(Test Driven Development) & <strong>Dependency Injection.</strong> I adhere to <strong>SOLID</strong> Principles and have experience with <strong>CI/CD</strong> Pipelines and <strong>Agile Methodologies</strong> like <strong>Scrum</strong>. My core skills are focused on Native Android Development. Check out my application on following platform:     
+<strong>Software Engineer</strong> with a solid grasp of <strong>Software Architecture</strong> (Layered) and key Approaches like <strong>TDD </strong>(Test Driven Development) & <strong>Dependency Injection.</strong> I adhere to <strong>SOLID</strong> Principles and have experience with <strong>CI/CD</strong> Pipelines and <strong>Agile Methodologies</strong> like <strong>Scrum</strong>. My core skills are focused on Native Android Development. Check out my application on following platform:     
 <!--     <p>
     <a href="https://play.google.com/store/apps/details?id=com.imrul.replog&pcampaignid=web_share">
         <img src="https://github.com/user-attachments/assets/798f1a1d-266a-4446-8e9f-c9259c55038f" 
