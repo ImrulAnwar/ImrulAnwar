@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Android Developer </strong></h1>
+<h1 align="center"><strong>Software Engineer</strong></h1>
 
 <p>
 Aspiring <strong>Software Engineer</strong> with a solid grasp of <strong>Software Architecture</strong> (Layered) and key Approaches like <strong>TDD </strong>(Test Driven Development) & <strong>Dependency Injection.</strong> I adhere to <strong>SOLID</strong> Principles and have experience with <strong>CI/CD</strong> Pipelines and <strong>Agile Methodologies</strong> like <strong>Scrum</strong>. My core skills are focused on Native Android Development. Check out my application on following platforms:     
